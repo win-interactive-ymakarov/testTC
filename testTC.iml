@@ -2,7 +2,7 @@
 <module type="Flex" version="4">
   <component name="FlexBuildConfigurationManager" active="testTC">
     <configurations>
-      <configuration name="testTC" target-platform="Mobile" pure-as="true" output-file="testTC.swf" output-folder="$MODULE_DIR$/out/production/testTC">
+      <configuration name="testTC" target-platform="Mobile" pure-as="true" main-class="TestTC" output-file="testTC.swf" output-folder="$MODULE_DIR$/out/production/testTC">
         <dependencies target-player="12.0">
           <sdk name="sdk_4_0_0_" />
         </dependencies>
