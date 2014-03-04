@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BuildServerSettings">
-    <option name="LOGIN" value="" />
-    <option name="SERVER_URL" value="http://buildserver" />
-    <option name="PASSWORD" />
+    <option name="LOGIN" value="yurizkit" />
+    <option name="SERVER_URL" value="http://localhost:8080" />
+    <option name="PASSWORD" value="dfc2dfcbdfc6dfccdfc6dfc3dfccdfcf" />
     <option name="REMEMBER_ME" value="true" />
     <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
     <option name="INSPECTIONS_BUILD_TYPE_IDS" />
@@ -23,10 +23,38 @@
     <option name="SHOW_CLOSE_PROMPT" value="true" />
     <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <SELECTED_PROJECT id="project19" />
+    <SELECTED_PROJECT id="project18" />
+    <SELECTED_TYPE id="bt12" />
+    <treeState key="selectConfigurations.run">
+      <expandedPath>
+        <pathElement>
+          <option name="myNodeId" value="project18" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.ProjectDescriptor" />
+        </pathElement>
+        <pathElement>
+          <option name="myNodeId" value="project19" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.ProjectDescriptor" />
+        </pathElement>
+      </expandedPath>
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="project18" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.ProjectDescriptor" />
+        </pathElement>
+        <pathElement>
+          <option name="myNodeId" value="project19" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.ProjectDescriptor" />
+        </pathElement>
+        <pathElement>
+          <option name="myNodeId" value="bt12" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.BuildTypeDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14bbd2e0-35f0-44b6-955f-82692501ecec" name="Default" comment="daasdasd&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="14bbd2e0-35f0-44b6-955f-82692501ecec" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testTC.iws" />
@@ -94,7 +122,7 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="436" column="19" selection-start="20479" selection-end="20479" vertical-scroll-proportion="61.0" vertical-offset="8998" max-vertical-offset="11016">
+            <state line="473" column="19" selection-start="22159" selection-end="22159" vertical-scroll-proportion="61.0" vertical-offset="9627" max-vertical-offset="11900">
               <folding />
             </state>
           </provider>
@@ -468,7 +496,7 @@
       <changelist id="14bbd2e0-35f0-44b6-955f-82692501ecec" name="Default" comment="" />
       <created>1393930860520</created>
       <updated>1393930860520</updated>
-      <workItem from="1393930864002" duration="1167000" />
+      <workItem from="1393930864002" duration="1255000" />
     </task>
     <task id="LOCAL-00001" summary="daasdasd&#10;">
       <created>1393930874831</created>
@@ -494,15 +522,23 @@
       <created>1393931864391</created>
       <updated>1393931864391</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="daasdasd&#10;">
+      <created>1393932034452</created>
+      <updated>1393932034452</updated>
+    </task>
+    <task id="LOCAL-00008" summary="daasdasd&#10;">
+      <created>1393932081028</created>
+      <updated>1393932081028</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1167000" />
+    <option name="totallyTimeSpent" value="1255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -524,7 +560,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -565,7 +601,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="436" column="19" selection-start="20479" selection-end="20479" vertical-scroll-proportion="61.0" vertical-offset="8998" max-vertical-offset="11016">
+        <state line="473" column="19" selection-start="22159" selection-end="22159" vertical-scroll-proportion="61.0" vertical-offset="9627" max-vertical-offset="11900">
           <folding />
         </state>
       </provider>
