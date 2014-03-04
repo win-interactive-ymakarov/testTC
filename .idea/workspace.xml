@@ -25,7 +25,8 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14bbd2e0-35f0-44b6-955f-82692501ecec" name="Default" comment="">
+    <list default="true" id="14bbd2e0-35f0-44b6-955f-82692501ecec" name="Default" comment="daasdasd&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testTC.iws" />
@@ -90,10 +91,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="workspace.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="432" column="19" selection-start="20262" selection-end="20262" vertical-scroll-proportion="-2.9047618" vertical-offset="8930" max-vertical-offset="10863">
+            <state line="436" column="19" selection-start="20479" selection-end="20479" vertical-scroll-proportion="61.0" vertical-offset="8998" max-vertical-offset="11016">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
               <folding />
             </state>
           </provider>
@@ -458,7 +468,7 @@
       <changelist id="14bbd2e0-35f0-44b6-955f-82692501ecec" name="Default" comment="" />
       <created>1393930860520</created>
       <updated>1393930860520</updated>
-      <workItem from="1393930864002" duration="997000" />
+      <workItem from="1393930864002" duration="1167000" />
     </task>
     <task id="LOCAL-00001" summary="daasdasd&#10;">
       <created>1393930874831</created>
@@ -480,11 +490,15 @@
       <created>1393931859590</created>
       <updated>1393931859590</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="daasdasd&#10;">
+      <created>1393931864391</created>
+      <updated>1393931864391</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="997000" />
+    <option name="totallyTimeSpent" value="1167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
@@ -551,7 +565,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="432" column="19" selection-start="20262" selection-end="20262" vertical-scroll-proportion="-2.9047618" vertical-offset="8930" max-vertical-offset="10863">
+        <state line="436" column="19" selection-start="20479" selection-end="20479" vertical-scroll-proportion="61.0" vertical-offset="8998" max-vertical-offset="11016">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
           <folding />
         </state>
       </provider>
@@ -609,11 +630,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>testTC|testTC</last-edited>
+          <last-edited>testTC</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
